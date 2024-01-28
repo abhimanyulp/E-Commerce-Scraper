@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhimanyulp/E-Commerce-Scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhimanyulp/E-Commerce-Scraper/issues"
+  },
+  "homepage": "https://github.com/abhimanyulp/E-Commerce-Scraper#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "json2csv": "^6.0.0-alpha.2",
+    "ndjson": "^2.0.0"
+  }
+}
